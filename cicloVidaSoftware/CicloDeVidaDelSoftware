@@ -1,0 +1,27 @@
+El ciclo de vida del software consta de varias etapas:
+
+1.Planificación: En esta fase se incluyen tareas como la determinación del
+    ámbito del proyecto, un estudio de viabilidad, análisis de riesgos.
+2.Análisis: Proceso en el que se trata de descubrir lo que se necesita.
+3.Diseño: Se estudian las posibles implementaciones que hay que construir
+    y la estructura general del software.
+4.Implementación: Se trata de elegir las herramientas adecuadas,
+    un entorno de desarrollo que haga más sencillo el trabajo
+5.Pruebas: Conseguiremos detectar los fallos que se hayan cometido en etapas anteriores,
+    para que no repercuta en el usuario final.
+6.Instalación: En esta fase pondremos el software en funcionamiento.
+7.Uso y mantenimiento: Este es un momento crucial dentro del ciclo de vida de un software.
+    Dentro del mantenimiento se pueden distinguir tres puntos importantes:
+        -Correctivo: Eliminar defectos que se van detectando
+        -Adaptativo: Adaptarlo a nuevas necesidades
+        -Perfectivo: Añadir nuevas funcionalidades.
+
+En cuanto al ciclo de vida que se puede ver en este enunciado,
+    parece que se está siguiendo un Modelo en Cascada.
+En este modelo, cada fase debe completarse antes de que pueda comenzar la siguiente.
+    Por ejemplo, en el enunciado, primero se recopilan los requisitos durante la conversación
+     con el gerente (Análisis), luego se diseñaría el sistema para
+     satisfacer esos requisitos (Diseño), después se implementaría el sistema (Implementación)
+     y finalmente se probaría y se pondría en funcionamiento (Pruebas e Instalación).
+     Cada etapa fluye hacia la siguiente, de ahí el nombre de "cascada".
+
